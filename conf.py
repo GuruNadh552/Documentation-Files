@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project ='Attendance Management System'l
+project ='Attendance Management System'
 copyright = '2020, GuruNadh'
 author = 'GuruNadh'
 
