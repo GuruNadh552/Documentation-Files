@@ -8,7 +8,10 @@ Welcome to Web Design and Development - Apssdc's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :numbered:
+   
+   chapter_1.md
+   chapter_2.md
 
 
 
